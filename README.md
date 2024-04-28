@@ -29,7 +29,7 @@ To use the fine-tuned DeepSeek-Math model with Qlora, download the Lora adapters
 
 ## Data
 
-Data used for training and fine-tuning the models are not included in this repository due to licensing restrictions. Instructions for obtaining the data can be found [here](link_to_data_source).
+Data used for training and fine-tuning the models are not included in this repository due to licensing restrictions. Instructions for obtaining the data can be found [here](https://www.kaggle.com/datasets/alejopaullier/aimo-external-dataset).
 
 ## Acknowledgements
 
